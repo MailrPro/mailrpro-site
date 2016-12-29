@@ -12,7 +12,7 @@ Below are examples of the graph types we support out of the box in this toolkit,
 
 ### Doughnut
 
-{% example html %}
+## Example html
 <div class="w-2 mx-auto">
   <canvas
     class="ex-graph"
@@ -22,11 +22,11 @@ Below are examples of the graph types we support out of the box in this toolkit,
     data-segment-stroke-color="#252830">
   </canvas>
 </div>
-{% endexample %}
+## Endexample
 
 ### Bar
 
-{% example html %}
+## Example html
 <div>
   <canvas
     class="ex-line-graph"
@@ -39,11 +39,11 @@ Below are examples of the graph types we support out of the box in this toolkit,
     data-value="[{ label: 'First dataset', data: [65, 59, 80, 81, 56, 55, 40] }, { label: 'Second dataset', data: [28, 48, 40, 19, 86, 27, 90] }]">
   </canvas>
 </div>
-{% endexample %}
+## Endexample
 
 ### Line
 
-{% example html %}
+## Example html
 <div>
   <canvas
     class="ex-line-graph"
@@ -55,11 +55,11 @@ Below are examples of the graph types we support out of the box in this toolkit,
     data-value="[{fillColor: 'rgba(28,168,221,.03)', data: [2500, 3300, 2512, 2775, 2498, 3512, 2925, 4275, 3507, 3825, 3445, 3985]}]">
   </canvas>
 </div>
-{% endexample %}
+## Endexample
 
 ### Sparkline
 
-{% example html %}
+## Example html
 <div class="row">
   <div class="col-md-6 col-xl-4">
     <div class="statcard statcard-success">
@@ -74,4 +74,4 @@ Below are examples of the graph types we support out of the box in this toolkit,
       <canvas id="sparkline1" width="378" height="94" class="sparkline" data-chart="spark-line" data-value="[{data:[28,68,41,43,96,45,100]}]" data-labels="['a','b','c','d','e','f','g']" style="width: 189px; height: 47px;"></canvas>
     </div>
   </div>
-{% endexample %}
+## Endexample
