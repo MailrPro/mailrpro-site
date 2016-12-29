@@ -2,7 +2,7 @@
 
 Custom select menus can be easily created for browsers that support the styles.
 
-{% example html %}
+## Example html
 <select class="custom-select">
   <option>Default</option>
   <option>First option</option>
@@ -18,11 +18,11 @@ Custom select menus can be easily created for browsers that support the styles.
   <option>Alternative</option>
   <option>Last one</option>
 </select>
-{% endexample %}
+## Endexample
 
 Custom selects support the `disabled` attribute as well.
 
-{% example html %}
+## Example html
 <select class="custom-select" disabled>
   <option>Default</option>
   <option>First option</option>
@@ -38,11 +38,11 @@ Custom selects support the `disabled` attribute as well.
   <option>Alternative</option>
   <option>Last one</option>
 </select>
-{% endexample %}
+## Endexample
 
 Custom checkboxes and radios are built on the default Bootstrap checkboxes and radios. Add a couple extra classes and the indicator and you should be all set.
 
-{% example html %}
+## Example html
 <div class="form-check custom-control custom-checkbox">
   <label class="form-check-label">
     <input class="form-check-input" type="checkbox">
@@ -50,11 +50,11 @@ Custom checkboxes and radios are built on the default Bootstrap checkboxes and r
     Check this custom checkbox
   </label>
 </div>
-{% endexample %}
+## Endexample
 
 They can be done inline, too.
 
-{% example html %}
+## Example html
 <div class="checkbox-inline custom-control custom-checkbox">
   <label>
     <input type="checkbox">
@@ -69,11 +69,11 @@ They can be done inline, too.
     This custom checkbox is checked
   </label>
 </div>
-{% endexample %}
+## Endexample
 
 Same goes with radio inputs.
 
-{% example html %}
+## Example html
 <div class="radio custom-control custom-radio">
   <label>
     <input type="radio" id="radio1" name="radio">
@@ -88,11 +88,11 @@ Same goes with radio inputs.
     Or toggle this other custom radio
   </label>
 </div>
-{% endexample %}
+## Endexample
 
 And they can also be inline.
 
-{% example html %}
+## Example html
 <div class="radio-inline custom-control custom-radio">
   <label>
     <input type="radio" id="radio1" name="radio">
@@ -107,4 +107,4 @@ And they can also be inline.
     Or toggle this other custom radio
   </label>
 </div>
-{% endexample %}
+## Endexample
