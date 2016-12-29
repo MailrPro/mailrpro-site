@@ -2,7 +2,7 @@
 
 Create culti-line, inline ribbons on your text. Useful for breaking up content and adding strong visual flourishes.
 
-{% example html %}
+## Example html
 <h2 class="mt-0">
   <strong class="text-ribbon text-ribbon-primary">
     <span>Gucci Flip flops</span>
@@ -57,5 +57,4 @@ Create culti-line, inline ribbons on your text. Useful for breaking up content a
     <span>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempus porttitor.</span>
   </span>
 </p>
-
-{% endexample %}
+## Endexample
