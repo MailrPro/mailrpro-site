@@ -2,7 +2,7 @@
 
 Feature a user's profile with the `.card-profile` variant.
 
-{% example html %}
+## Example html
 <div class="mt-2">
   <div class="row">
     <div class="col-lg-6">
@@ -33,4 +33,4 @@ Feature a user's profile with the `.card-profile` variant.
     </div>
   </div>
 </div>
-{% endexample %}
+## Endexample
