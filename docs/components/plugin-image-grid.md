@@ -9,9 +9,9 @@ Use the image grid plugin to quickly layout multi sized images in a grid. For th
 - display: 'inline-block'
 
 ### JavaScript API
-{% example js %}
+## Example js
 $('.myGrid').imageGrid()
-{% endexample %}
+## Endexample
 
 ### Data Api
 
