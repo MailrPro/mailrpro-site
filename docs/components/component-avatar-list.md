@@ -2,7 +2,7 @@
 
 Join a series of icons into a single horizontal grouping.
 
-{% example html %}
+{% example_html %}
 <ul class="avatar-list">
   <li class="avatar-list-item">
     <img class="rounded-circle" src="{{ relative }}assets/img/avatar-dhg.png">
