@@ -2,7 +2,7 @@
 
 Add `.btn-pill` to any button to make them more rounded.
 
-## Endexample
+## Example html
 <button type="button" class="btn btn-lg btn-pill btn-primary">Primary</button>
 <button type="button" class="btn btn-lg btn-pill btn-secondary">Secondary</button>
 <button type="button" class="btn btn-lg btn-pill btn-success">Success</button>
