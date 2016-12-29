@@ -1,6 +1,6 @@
 ## Media list users
 
-{% example html %}
+## Example html
 <ul class="media-list media-list-users list-group">
   <li class="list-group-item">
     <div class="media">
@@ -45,4 +45,4 @@
     </div>
   </li>
 </ul>
-{% endexample %}
+## Endexample
