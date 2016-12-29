@@ -2,7 +2,7 @@
 
 Transform normal blockquotes into stylized pull quotes.
 
-{% example html %}
+## Example html
 <blockquote class="pull-quote">
   <img class="rounded-circle" src="{{ relative }}assets/img/avatar-mdo.png">
   <p>
@@ -10,4 +10,4 @@ Transform normal blockquotes into stylized pull quotes.
   </p>
   <cite>Mark Otto, Huge Nerd</cite>
 </blockquote>
-{% endexample %}
+## Endexample
