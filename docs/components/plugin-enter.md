@@ -10,13 +10,13 @@ Enter is a brand new plugin built to transition elements into view on scroll and
 
 ### JavaScript API
 
-{% highlight js %}
+## highlight js
 $('.js-enter').enter()
-{% endhighlight %}
+## Endhighlight
 
 ### Data API
 
-{% example html %}
+## Example html
 <div style="overflow: hidden">
   <div data-transition="entrance" style="transform: translateY(50px)">
     <p>
@@ -27,4 +27,4 @@ $('.js-enter').enter()
     </p>
   </div>
 </div>
-{% endexample %}
+## Endexample
