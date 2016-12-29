@@ -14,7 +14,7 @@ Thanks, and enjoy!
 
 Within your Bootstrap theme you'll find the following directories and files, grouping common resources and providing both compiled and minified distribution files, as well as raw source files.
 
-{% highlight bash %}
+## Highlight bash
 theme/
   ├── v3
   └── v4
@@ -43,7 +43,7 @@ theme/
           ├── toolkit.min.css.map
           ├── toolkit.js
           └── toolkit.min.js
-{% endhighlight %}
+## Endhighlight
 
 
 ## Getting started
@@ -52,9 +52,9 @@ At the top level of your bootstrap theme you'll find a directory for each major 
 
 To view your Bootstrap Theme documentation, simply find the docs directory and open index.html in your favorite browser.
 
-{% highlight bash %}
+## Highlight bash
 $ open docs/index.html
-{% endhighlight %}
+## Endhighlight
 
 
 ## Gulpfile.js
@@ -63,15 +63,15 @@ If you're after more customization we've also included a custom [Gulp](http://gu
 
 Once node is installed, run the following npm command to install Gulp.
 
-{% highlight bash %}
+## Highlight bash
 $ npm install gulp -g
-{% endhighlight %}
+## Endhighlight
 
 When you're done, make sure you've installed the rest of the theme's dependencies:
 
-{% highlight bash %}
+## Highlight bash
 $ npm install
-{% endhighlight %}
+## Endhighlight
 
 Now, modify your source files and run `gulp` to generate new local `dist/` files automatically. **Be aware that this replaces existing `dist/` files**, so proceed with caution.
 
@@ -103,7 +103,7 @@ The basic template is a guideline for how to structure your pages when building 
 
 Copy the example below into a new HTML file to get started with it.
 
-{% highlight html %}
+## Highlight html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -126,4 +126,4 @@ Copy the example below into a new HTML file to get started with it.
     <script src="dist/toolkit.min.js"></script>
   </body>
 </html>
-{% endhighlight %}
+## Endhighlight
