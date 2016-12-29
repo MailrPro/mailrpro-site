@@ -2,7 +2,7 @@
 
 Use an icon list to place custom icons next to a list of items.
 
-{% example html %}
+## Example html
 <ul class="iconlist">
   <li>
     <span class="icon icon-check"></span>
@@ -17,4 +17,4 @@ Use an icon list to place custom icons next to a list of items.
     Pokémon Master
   </li>
 </ul>
-{% endexample %}
+## Endexample
